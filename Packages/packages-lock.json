@@ -50,7 +50,11 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.test-framework": {
+<<<<<<< HEAD
       "version": "1.1.16",
+=======
+      "version": "1.1.14",
+>>>>>>> 096d37ad67042a6a6baaba287582541e4e13744c
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -61,7 +65,11 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.textmeshpro": {
+<<<<<<< HEAD
       "version": "3.0.1",
+=======
+      "version": "3.0.0-preview.1",
+>>>>>>> 096d37ad67042a6a6baaba287582541e4e13744c
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -81,8 +89,12 @@
       "depth": 0,
       "source": "builtin",
       "dependencies": {
+<<<<<<< HEAD
         "com.unity.modules.ui": "1.0.0",
         "com.unity.modules.imgui": "1.0.0"
+=======
+        "com.unity.modules.ui": "1.0.0"
+>>>>>>> 096d37ad67042a6a6baaba287582541e4e13744c
       }
     },
     "com.unity.modules.ai": {
